@@ -16,7 +16,7 @@
 	<parent>
     	<groupId>nl.siegmann.epublib</groupId>
 		<artifactId>epublib-parent</artifactId>
-		<version>3.0-SNAPSHOT</version>
+		<version>3.0tbp1</version>
   	</parent>
 
 	<dependencies>
